@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-07-31T11:37:38+03:00">
+  <shop>
+      <name>Рус-Инсинератор</name>
+      <company>Рус-Инсинератор</company>
+      <url>https://rus-incinerators.ru</url>
+      <categories>
+          <category id="1">Инсинераторы</category>
+      </categories>
+      <offers>
+          <offer id="1">
+              <name>Инсинератор ИН-100</name>
+              <vendor>Рус-Инсинератор</vendor>
+              <url>https://rus-incinerators.ru/product/incinerator-100</url>
+              <price>434300</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>1</categoryId>
+              <picture>https://optim.tildacdn.com/tild6638-3366-4836-b235-653731636331/-/format/webp/in-100.jpg.webp</picture>
+              <description>
+                  <![CDATA[
+                      <p>Инсинератор ИН-100 — это высокоэффективная установка для термического уничтожения отходов с загрузкой до 150 кг и производительностью 50–70 кг/ч. Оснащён камерой сжигания объёмом 0,42 м³, системой дожига и механической лебёдкой для загрузки. Подходит для утилизации биологических, медицинских, ветеринарных и промышленных отходов. Работает на дизельном топливе или природном газе.</p>
+                  ]]>
+              </description>
+          </offer>
+      </offers>
+  </shop>
+</yml_catalog>
